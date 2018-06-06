@@ -6,6 +6,7 @@ handlers:
   script: home.php
 
 - url: /favicon\.ico
+  upload: favicon.ico
   static_files: favicon.ico
 
 - url: /(.*\.css)
