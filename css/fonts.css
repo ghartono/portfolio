@@ -1,0 +1,81 @@
+h1, h2, h3, .font-serif{
+	font-family: 'Spectral SC', serif;
+}
+
+p, .font-san{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.font-header{
+	font-family: 'Spectral', serif;
+}
+
+p {
+	font-size: 16px;
+}
+
+.a:hover{
+	border: 1px solid black;
+}
+
+.logo{
+	display:inline-block;
+	font-size: 40px;
+}
+
+.container{
+	width:80%;
+	margin: 0 auto 0 auto;
+}
+
+.even {
+	background-color: #bbb;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 0 auto 0 auto;
+    padding: 1px;
+    width:80%;
+}
+
+.top-buffer{
+	margin-top:20px;
+}
+
+.inline, li{
+	display:inline-block;
+}
+
+li{
+	padding: 2px;
+}
+
+.list-header{
+	font-size: 20px;
+	padding-top: 18px;
+}
+
+
+.nohover{
+	text-decoration: none !important;
+	color: #000 !important;
+}
+
+a{
+	color: #215c98;
+}
+
+.right{
+	float:right;
+}
+
+.left{
+	float:left;
+}
+
+.center{
+	text-align: -webkit-center;
+}
