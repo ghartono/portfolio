@@ -10,7 +10,7 @@ handlers:
   upload: favicon.ico
 
 - url: /stylesheet
-  static_dir:stylesheet
+  static_dir: stylesheet
 
 - url: /index
   script: home.php
