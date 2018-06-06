@@ -11,10 +11,13 @@
         </div>
         <div class="col-xs-12 col-sm-12 offset-md-3 col-md-6">
             <p>
-            <b>This Website</b><br>
-            <i class="far fa-question-circle"></i>Intended to show people who I am and hopefully get me a job<br>
+            <b>NodeJS ver. of this website</b><br>
+            <i class="far fa-question-circle"></i>This website is powered by <b><a href="http://nodejs.org" target="_BLANK">node.JS</a></b> 
+            which I learned from Monstercat's <b><a href="http://github.com/monstercat/deon" target="_BLANK">
+            deon website.</a></b> <br> Special thanks to their devs!</p><br>
+            It is fully working local, but issues when hosted online.<br>
             <i class="far fa-comment"></i>NodeJS, CSS Bootstrap<br>
-            <i class="fab fa-github"></i><a href="http://github.com/ghartono/portfolio" target="_BLANK">Github</a>
+            <i class="fab fa-github"></i><a href="http://github.com/ghartono/mywebsite" target="_BLANK">Github</a>
             </p>
             <p>
         

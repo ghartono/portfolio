@@ -39,7 +39,8 @@
             </div>
             <div class="col-xs-12 col-sm-12 col-md-4 center">
                 <h3 class="center top-buffer">How</h3>
-                <p>This website is powered by <b><a href="http://nodejs.org" target="_BLANK">node.JS</a></b> which I learned from Monstercat's <b><a href="http://github.com/monstercat/deon" target="_BLANK">deon website.</a></b> <br> Special thanks to their devs!</p>
+                <p> This website is powered by Bootstrap, simple HTML/CSS and hosted using Google Cloud Platform<br>
+                <p> You can find a work-in-progress NodeJS website which you can find in <a href="http://github.com/ghartono/mywebsite">here</a></p>
             </div>
         </div>
         </div>

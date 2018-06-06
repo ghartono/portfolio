@@ -17,12 +17,15 @@ handlers:
 
 - url: /contact
   script: contact.php
-  
+
 - url: /resume
   script: resume.php
-  
+
 - url: /project
   script: project.php
+
+- url: /experiment
+  script: experiment.php
 
 - url: /.*
   script: error404.php
