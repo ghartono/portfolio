@@ -6,13 +6,11 @@ handlers:
   script: home.php
 
 - url: /favicon\.ico
-  upload: favicon.ico
   static_files: favicon.ico
+  upload: favicon.ico
 
-- url: /(.*\.css)
-  mime_type: text/css
-  static_files: static/\1
-  upload: static/(.*\.css)
+- url: /stylesheet
+  static_dir:stylesheet
 
 - url: /index
   script: home.php
