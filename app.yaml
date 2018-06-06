@@ -5,6 +5,14 @@ handlers:
 - url: /
   script: home.php
 
+- url: /favicon\.ico
+  static_files: favicon.ico
+
+- url: /(.*\.css)
+  mime_type: text/css
+  static_files: static/\1
+  upload: static/(.*\.css)
+
 - url: /index
   script: home.php
 
