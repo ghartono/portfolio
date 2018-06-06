@@ -5,23 +5,23 @@ handlers:
 - url: /
   script: home.php
 
-- url: /index\.html
+- url: /index
   script: home.php
 
-- url: /blog\.html
+- url: /blog
   script: blog.php
 
 - url: /(.*\.(gif|png|jpg))$
   static_files: static/\1
   upload: static/.*\.(gif|png|jpg)$
 
-- url: /contact\.html
+- url: /contact
   script: contact.php
   
-- url: /resume\.html
+- url: /resume
   script: resume.php
   
-- url: /project\.html
+- url: /project
   script: project.php
 
 - url: /.*
