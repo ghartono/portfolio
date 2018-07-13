@@ -9,8 +9,8 @@ handlers:
   static_files: favicon.ico
   upload: favicon.ico
 
-- url: /stylesheet
-  static_dir: stylesheet
+- url: /fonts.css
+  static_files: font.css
 
 - url: /jsgame
   static_dir: jsgame
