@@ -15,24 +15,9 @@ handlers:
 - url: /index
   script: home.php
 
-- url: /blog
-  script: blog.php
-
 - url: /(.*\.(gif|png|jpg))$
   static_files: static/\1
   upload: static/.*\.(gif|png|jpg)$
-
-- url: /contact
-  script: contact.php
-
-- url: /resume
-  script: resume.php
-
-- url: /project
-  script: project.php
-
-- url: /experiment
-  script: experiment.php
 
 - url: /.*
   script: error404.php
