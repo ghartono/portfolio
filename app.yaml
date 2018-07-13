@@ -3,7 +3,7 @@ api_version: 1
 
 handlers:
 - url: /
-  script: home.php
+  script: home.html
 
 - url: /favicon\.ico
   static_files: favicon.ico
