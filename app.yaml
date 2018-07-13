@@ -21,6 +21,3 @@ handlers:
 
 - url: /.*
   script: error404.php
-
-- url: /jsgame
-  static_dir: jsgame

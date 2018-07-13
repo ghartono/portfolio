@@ -88,7 +88,7 @@
                         
             </p></p>
 <p>
-    <b>JavaScript Web-Game</b> <a href="https://gio-portfolio.appspot.com/jsgame/Canvas.html" target="_BLANK">JS-Game<br>
+    <b>JavaScript Web-Game</b> <a href="https://gio-portfolio.appspot.com/jsgame/Canvas.html" target="_BLANK">JS-Game</a><br>
     <i class="far fa-question-circle"></i>Final assignment in a JavaScript class I took in 2015. Had fun creating all the sprite characters!
 <br><i class="far fa-comment"></i>JavaScript, HTML5 Canvas
     
