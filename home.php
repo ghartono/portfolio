@@ -21,7 +21,6 @@
         <div class="col-md-6">
             <nav class="col-sm-hidden col-md-visible right inline">
 <p>2210 Dauphin Pl, Burnaby, BC, Canada, V5B4G9<br>
-+1 (604) 710-5886<br>
     gionaldoh@yahoo.com
 </p>
             </nav>
@@ -75,26 +74,26 @@
 
             <p>
     </p><h3>Projects</h3><p>
-            <b>Online Portfolio</b>, gio-portfolio.appspot.com<br>
-            <i class="far fa-question-circle"></i>Portfolio website that I made recently, still in progress.<br>
-            <i class="far fa-comment"></i>HTML/CSS, PHP (live), NodeJS (WIP)<br>
+            <b>Online Resume</b>, <a href="gio-portfolio.appspot.com"> gio-portfolio.appspot.com </a><br>
+            <i class="far fa-question-circle"></i>Website to store my resume online, will upgrade to portfolio as more projects develop<br>
+            <i class="far fa-comment"></i>HTML/CSS<br>
             
                         
             </p>
 <p><p>
-            <b>MasterChef</b>, masterchef-group-3.herokuapp.com<br>
+            <b>MasterChef</b>, <a href="https://masterchef-group-3.herokuapp.com" target="_BLANK">masterchef-group-3.herokuapp.com</a><br>
             <i class="far fa-question-circle"></i>Group project for CMPT276, Introduction to Software Engineering, in an agile development environment.<br>
             <i class="far fa-comment"></i>Ruby on Rails, PostgreSQL, Heroku<br>
             
                         
             </p></p>
 <p>
-    <b>JavaScript Web-Game</b><br>
+    <b>JavaScript Web-Game</b> <a href="https://gio-portfolio.appspot.com/jsgame/Canvas.html" target="_BLANK">JS-Game<br>
     <i class="far fa-question-circle"></i>Final assignment in a JavaScript class I took in 2015. Had fun creating all the sprite characters!
 <br><i class="far fa-comment"></i>JavaScript, HTML5 Canvas
     
 </p><p>
-            <b>PHP/MySQL Web-based payroll system</b><br>
+            <b>PHP/MySQL Web-based payroll system</b> <a href="github.com/ghartono/harfenpayroll">github</a><br>
             <i class="far fa-question-circle"></i>My first ever programming project! Although badly designed, it was a good experience of the whole system-development-life-cycle process. Documentations are available upon request.<br>
             <i class="far fa-comment"></i>HTML/CSS, PHP, JavaScript, MySQL<br>
             
@@ -103,7 +102,7 @@
 
             
         <p>
-            Code available on <a href="https://github.com/ghartono" target="_BLANK"><i class="fab fa-github"></i>github.com/ghartono</a>
+            All code available on <a href="https://github.com/ghartono" target="_BLANK"><i class="fab fa-github"></i>github.com/ghartono</a>
             </p></div>
       </div>
 
