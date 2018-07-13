@@ -12,6 +12,9 @@ handlers:
 - url: /stylesheet
   static_dir: stylesheet
 
+- url: /fonts.css
+  script: fonts.css
+
 - url: /jsgame
   static_dir: jsgame
 
