@@ -67,8 +67,8 @@
         <div class="col-xs-12 col-sm-12 offset-md-3 col-md-6">
             <h3>Work</h3>
 <p>
-            <b>Web Developer,</b> Finger Technology<br>
-            <i class="far fa-question-circle"></i>Internship where I created features for their website and learned CodeIgniter's basic how-to<br>
+            <b>Web Developer,</b> Finger Technology, Jul 2015 - Aug 2015<br>
+            <i class="far fa-question-circle"></i>Internship where I created features for their website and tinkered with a client's website which used CodeIgniter (PHP Framework)<br>
             <i class="far fa-comment"></i>JavaScript, PHP, CodeIgniter, MySQL<br>
             
             </p>
@@ -83,7 +83,7 @@
             </p>
 <p><p>
             <b>MasterChef</b>, <a href="https://masterchef-group-3.herokuapp.com" target="_BLANK">masterchef-group-3.herokuapp.com</a><br>
-            <i class="far fa-question-circle"></i>Group project for CMPT276, Introduction to Software Engineering, in an agile development environment.<br>
+            <i class="far fa-question-circle"></i>Group project for CMPT276, Introduction to Software Engineering, in an agile development environment<br>
             <i class="far fa-comment"></i>Ruby on Rails, PostgreSQL, Heroku<br>
             
                         

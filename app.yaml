@@ -2,18 +2,19 @@ runtime: php55
 api_version: 1
 
 handlers:
-- url: /
-  script: home.php
-
-- url: /favicon\.ico
-  static_files: favicon.ico
-  upload: favicon.ico
 
 - url: /stylesheet
   static_dir: stylesheet
 
 - url: /fonts.css
   script: fonts.css
+  
+- url: /
+  script: home.php
+
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon.ico
 
 - url: /jsgame
   static_dir: jsgame
