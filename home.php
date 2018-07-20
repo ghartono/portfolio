@@ -66,38 +66,37 @@
         </div>
         <div class="col-xs-12 col-sm-12 offset-md-3 col-md-6">
             <h3>Work</h3>
-<p>
+			<p>
             <b>Web Developer,</b> Finger Technology, Jul 2015 - Aug 2015<br>
             <i class="far fa-question-circle"></i>Internship where I created features for their website and tinkered with a client's website which used CodeIgniter (PHP Framework)<br>
             <i class="far fa-comment"></i>JavaScript, PHP, CodeIgniter, MySQL<br>
-            
             </p>
-
-            <p>
-    </p><h3>Projects</h3><p>
+			
+			<h3>Projects</h3>
+			<p>
             <b>Online Resume</b>, <a href="gio-portfolio.appspot.com"> gio-portfolio.appspot.com </a><br>
             <i class="far fa-question-circle"></i>Website to store my resume online, will upgrade to portfolio as more projects develop<br>
-            <i class="far fa-comment"></i>HTML/CSS<br>
-            
-                        
+            <i class="far fa-comment"></i>HTML/CSS, Bootstrap<br>
+			</p>
+			<p>
+            <b>Laravel-based Online Bidding website</b> <a href="github.com/ghartono/online-bid" target="_BLANK">GitHub</a><br>
+            <i class="far fa-question-circle"></i>Online bidding website, group project for CMPT470, Web-based information systems. Used agile software development.<br>
+            <i class="far fa-comment"></i>Laravel, PHP, JavaScript, HTML/CSS, Composer, EloquenORM, Bootstrap, VirtualBox<br>           
             </p>
-<p><p>
+			<p>
             <b>MasterChef</b>, <a href="https://masterchef-group-3.herokuapp.com" target="_BLANK">masterchef-group-3.herokuapp.com</a><br>
-            <i class="far fa-question-circle"></i>Group project for CMPT276, Introduction to Software Engineering, in an agile development environment<br>
-            <i class="far fa-comment"></i>Ruby on Rails, PostgreSQL, Heroku<br>
-            
-                        
-            </p></p>
-<p>
-    <b>JavaScript Web-Game</b> <a href="https://gio-portfolio.appspot.com/jsgame/Canvas.html" target="_BLANK">JS-Game</a><br>
-    <i class="far fa-question-circle"></i>Final assignment in a JavaScript class I took in 2015. Had fun creating all the sprite characters!
-<br><i class="far fa-comment"></i>JavaScript, HTML5 Canvas
-    
-</p><p>
-            <b>PHP/MySQL Web-based payroll system</b> <a href="github.com/ghartono/harfenpayroll">github</a><br>
+            <i class="far fa-question-circle"></i>Recipe sharing website, group project for CMPT276, Introduction to Software Engineering. Used agile software development.<br>
+            <i class="far fa-comment"></i>Ruby on Rails, PostgreSQL, Heroku, Bootstrap<br>           
+            </p>
+			<p>
+			<b>JavaScript Web-Game</b> <a href="https://gio-portfolio.appspot.com/jsgame/Canvas.html" target="_BLANK">JS-Game</a><br>
+			<i class="far fa-question-circle"></i>Final assignment in a JavaScript class I took in 2015. Had fun creating all the sprite characters!<br>
+			<i class="far fa-comment"></i>JavaScript, HTML5 Canvas
+			</p>
+			<p>
+            <b>PHP/MySQL Web-based payroll system</b> <a href="github.com/ghartono/harfenpayroll">GitHub</a><br>
             <i class="far fa-question-circle"></i>My first ever programming project! Although badly designed, it was a good experience of the whole system-development-life-cycle process. Documentations are available upon request.<br>
             <i class="far fa-comment"></i>HTML/CSS, PHP, JavaScript, MySQL<br>
-            
             </p>
 
 
